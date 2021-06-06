@@ -1,0 +1,10 @@
+platform :ios, '13.0'
+use_frameworks!
+  pod 'OpenVPNAdapter', :git => 'https://github.com/ss-abramchuk/OpenVPNAdapter.git', :tag => '0.7.0'
+
+
+# target 'packettunnel' do
+# platform :ios, '13.0'
+#   use_frameworks!
+#   pod 'OpenVPNAdapter', :git => 'https://github.com/ss-abramchuk/OpenVPNAdapter.git', :tag => '0.7.0'
+# end
